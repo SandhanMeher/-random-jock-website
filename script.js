@@ -39,3 +39,4 @@ document.getElementById("s1").addEventListener("click",()=>
     document.getElementById("maja").innerHTML=`&#128516 sorry`
     document.getElementById("custoo").style.visibility="hidden"
 })
+
